@@ -1,9 +1,9 @@
 # Work Day Scheduler Starter Code
 # URL for the deployed website
-[Website URL]()
+https://imvjrao.github.io/challenge-5/
 
 # URL for the GitHub Repo
-[GitHub repo]()
+https://github.com/imvjrao/challenge-5.git
 
 
 ![Acceptance Criteria](https://imvjrao.github.io/challenge-5/Images/Acceptance-criteria.png)
