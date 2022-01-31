@@ -1,7 +1,12 @@
 # Work Day Scheduler Starter Code
+# URL for the deployed website
 [Website URL]()
+
+# URL for the GitHub Repo
 [GitHub repo]()
-![Acceptance Criteria](./images/Acceptance Criteria)
+
+
+![Acceptance Criteria](https://imvjrao.github.io/challenge-5/Images/Acceptance-criteria.png)
 
 # When the Work Day Scheduler is opened
 1.The time block displays the business hours 09:00AM to 05:00PM
@@ -10,4 +15,4 @@
 4.The Block will save the tasks once you click the save button in a local storage.
 5.If you don't click save and refresh, the tasks will disappear and the bloxk will turn blank.
 
-![Screenshot of the workday scheduler](./images/screenshot)
+![Screenshot of the workday scheduler](https://imvjrao.github.io/challenge-5/Images/screenshot.png)
